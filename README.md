@@ -1,5 +1,6 @@
 # ATV 2-P2 ALGORITMO
-Nome da atividade: Atividade: Máquina Virtual Baseada em Pilha — Etapa 2 
+Nome da atividade: Atividade: Máquina Virtual Baseada em Pilha — Etapa 2
+
 Nomes dos integrantes: ISABEL SILVA DE ARAUJO
 
 Instruções para compilar e executar:
