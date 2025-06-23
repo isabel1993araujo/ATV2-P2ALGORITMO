@@ -8,4 +8,4 @@ Instruções para compilar e executar:
 Descrição da nova funcionalidade (variáveis):
   Nesta etapa, foi adicionada ao programa a funcionalidade de variáveis, utilizando uma lista encadeada para armazenar nomes e valores. Agora, é possível criar variáveis com o comando let, empilhar o valor de uma variável com push_var e atualizar o valor de uma variável com   set_var, usando o valor que está no topo da pilha. Isso permite realizar operações entre variáveis e guardar resultados, tornando a máquina virtual mais completa e interativa.
 
-Orieentação: https://profsergiocosta.notion.site/Laborat-rio-Um-REPL-para-uma-m-quina-baseada-em-pilha-31614c015b68430c864077eb25d214b2  
+Orientação: https://profsergiocosta.notion.site/Laborat-rio-Um-REPL-para-uma-m-quina-baseada-em-pilha-31614c015b68430c864077eb25d214b2  
